@@ -1,0 +1,18 @@
+.body {
+    background-color: rgb(223, 195, 195);
+}
+
+.hh {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: blue;
+}
+
+.ul {
+    font-size: 25px;
+    font-weight: bold;
+    height: auto;
+    text-align: center;
+
+}
