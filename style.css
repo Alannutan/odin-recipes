@@ -1,3 +1,5 @@
+/*index only*/
+
 .body {
     background-color: rgb(223, 195, 195);
 }
@@ -51,6 +53,11 @@
 }
 /* lo de arriba es solo para index */
 
+
+
+/*text for recipies */
+
+
 #comida {
     text-align: center;
     font-size: 50px;
@@ -86,6 +93,9 @@
     font-weight: bold;
     }
 
+
+    /*images*/
+
     #image {
         display: block;
         margin-left: auto;
@@ -94,13 +104,25 @@
     }
 
     #pizza {
-        /* ajustar el tama;o de la imagen*/
+        display: block;
+        width: 38%;
+        height: 38%;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     #milanesa{
-        /* ajustar el tama;o de la imagen*/
+        display: block;
+        width: 38%;
+        height: 38%;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     #guiso {
-        /* ajustar el tama;o de la imagen*/
+        display: block;
+        width: 38%;
+        height: 38%;
+        margin-left: auto;
+        margin-right: auto;
     }
