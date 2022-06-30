@@ -17,6 +17,12 @@
 
 }
 
+.flex-one {
+    display: flex;
+    flex-direction: column;
+}
+
+
 .button {
     min-width: 100px;
     border-color: transparent;
